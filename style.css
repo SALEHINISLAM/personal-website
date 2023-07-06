@@ -1,0 +1,38 @@
+*{
+    margin: 20px;
+}
+#birth{
+    /* cursor:url("icon.jpg"),auto; */
+    border-radius: 0px 15px 15px 0px;
+    border-right: 30px solid aqua;
+    background-color: rgba(255, 228, 196, 0.708);
+    border-left: 5px dotted black;
+    box-shadow: 10px 5px 5px black;
+}
+#samia{
+    
+    border-radius: 15px 0px 0px 15px;
+    border-left: 30px solid aqua;
+    background-color: rgba(255, 228, 196, 0.708);
+    border-right: 5px dotted black;
+    box-shadow: 10px 5px 5px black;
+}
+.inline{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+summary{
+    font-size: xx-large;
+}
+#double{
+    font-weight: 900;
+    font-size: xx-large;
+}
+img{
+    /* object-fit: cover; */
+    padding-top: 7%;
+}
+footer{
+    text-align: center;
+}
